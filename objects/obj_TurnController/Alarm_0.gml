@@ -1,0 +1,1 @@
+global.boss_dialogue = true; // start dialogue
